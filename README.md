@@ -3,7 +3,7 @@
 A provisional automation tool to create a new project.
 Actually it works with __Selenium__ but I'll change that using the GitHub API.
 
-## Installation:
+## Installation
 
 `git clone "https://github.com/MichaelNiers/Example.git"`
 `cd Example`
