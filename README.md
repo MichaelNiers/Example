@@ -5,9 +5,9 @@ Actually it works with __Selenium__ but I'll change that using the GitHub API.
 
 ## Installation:
 
-`git clone "https://github.com/MichaelNiers/Example.git"
-cd Example
-source ~/.commands.sh`
+`git clone "https://github.com/MichaelNiers/Example.git"`
+`cd Example`
+`source ~/.commands.sh`
 
 Then go to new.py and set the username and password to be your username and password.
 Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
